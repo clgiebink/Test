@@ -7,6 +7,7 @@
 - [ ] Item 1
 - [ ] Item 2
 - [ ] Item 3
+- [ ] Item 5
 
 **This is bold**
 
