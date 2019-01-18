@@ -1,8 +1,8 @@
 # Test
 
-## This is a heading
+## This is a subheading because it has 2 hash thingies
 
-### This is a smaller heading
+### This is a smaller subsubheading
 
 - [ ] Item 1
 - [ ] Item 2
@@ -18,9 +18,9 @@ _This is italic_
 
 Bulleted list
 
-- Item A
-- Item B
-- Item C
+* Item A
+* Item B
+* Item C
 
 Numbered list
 
